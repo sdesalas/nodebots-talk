@@ -1,0 +1,11 @@
+{
+  "name": "DEMO2",
+  "version": "1.0.0",
+  "description": "Some node-serialport examples for connecting to ArduinoYun ATMEL Microcontroller from NodeJS via USB",
+  "main": "bridge.js",
+  "author": "Steven de Salas",
+  "license": "MIT",
+  "dependencies": {
+    "serialport": "^1.4.6"
+  }
+}
