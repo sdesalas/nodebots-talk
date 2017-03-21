@@ -1,2 +1,1 @@
-# nodebots-talk
-Some code used for the Nodebots talk I gave at Seek and NodeJS Melbourne Meetup
+![Slide2.PNG](Slide2.PNG)
